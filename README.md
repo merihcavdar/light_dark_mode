@@ -1,16 +1,10 @@
-# light_dark_mode
+# Light Dark Mode
 
-A new Flutter project.
+an app for defining and changing Light Mode & Dark Mode in Flutter
 
-## Getting Started
+## Screenshot
+![light_dark_mode](https://github.com/merihcavdar/light_dark_mode/assets/84540989/dcdd3fa3-a81c-403b-80f0-a89f2c5b62a6)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- ThemeData
+- Provider
